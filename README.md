@@ -1,5 +1,5 @@
 # Aseprite-Scripting-Quirks
-A place for me to track all the little quirks I run into while scripting in Aseprite
+A place for me to track all the little quirks I run into while scripting in Aseprite. If anyone has any insight into why these quirks are happening, or perhaps better ways of achieving the same thing, please let me know!
 
 ## Modifying dialog settings
 If you want one dialog widget to be able to edit another dialog widget, you cannot chain the dialog widgets. For example:
